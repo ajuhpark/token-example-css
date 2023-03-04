@@ -1,0 +1,25 @@
+{
+  "name": "token-example-css",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajuhpark/token-example-css.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajuhpark/token-example-css/issues"
+  },
+  "homepage": "https://github.com/ajuhpark/token-example-css#readme",
+  "devDependencies": {
+    "style-dictionary": "^3.7.2"
+  },
+  "dependencies": {
+    "@tokens-studio/sd-transforms": "^0.4.5"
+  }
+}

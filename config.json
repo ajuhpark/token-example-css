@@ -1,0 +1,15 @@
+
+
+{
+  "source": ["tokens/input.json"],
+  "platforms": {
+    "css": {
+      "transformGroup": "tokens-studio",
+      "buildPath": "build/css/",
+      "files": [{
+        "destination": "_variables.css",
+        "format": "css/variables"
+      }]
+    }
+  }
+}
