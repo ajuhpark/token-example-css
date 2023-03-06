@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sun, 05 Mar 2023 07:46:36 GMT
+ * Generated on Mon, 06 Mar 2023 07:08:55 GMT
  */
 
 export const dropshadow = "0 2 2 0 #b3bececc";
